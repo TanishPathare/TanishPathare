@@ -1,20 +1,17 @@
 ## Hi there 👋
 
+## I'm Tanish Pathare
+
 🎓 Mechanical Engineering Student @ AISSMS COE, Pune
 
 💻 Exploring **AI, ML, Python & Software Development**
 
-⚙️ Interested in **Mechanical Engineering, Automotive & Aerodynamics**
+⚙️ Interested in **Automotive, Aerodynamics & Mechanical Engineering**
 
-🚀 Currently building projects in **AI, Navigation & Web Development**
-
-📚 Always learning. Always building.
+🚀 Building projects and learning along the way.
 
 ### 🛠️ Tech
 
 `C` `Python` `HTML` `CSS` `JavaScript` `Git` `GitHub`
 
-### 📫 Connect
-
-[LinkedIn](YOUR_LINKEDIN) • [Email](YOUR_EMAIL)
 
